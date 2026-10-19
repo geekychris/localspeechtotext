@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Localspeechtotext logo" width="180">
+</p>
+
 # Speech-to-Text Conversion with Vosk
 
 This repository contains a Python script (`speech_to_text.py`) that converts spoken language in WAV audio files to text using Vosk, a lightweight offline speech recognition toolkit. The script runs entirely offline using local models without requiring internet connectivity or cloud-based services.
